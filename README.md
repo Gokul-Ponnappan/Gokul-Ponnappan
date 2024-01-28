@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gokul-Ponnappan
--     A graduate in Bachelor of Science in Computer Science
+-    A graduate in Bachelor of Science in Computer Science
 -    Currently trying to land a job as Data Analyst
 -    Also has a pior experience working at Wipro as an senior associate for 1 year and 6 months
 -    I have skills such as SQL, Excel, Power BI and Python Foundation 
